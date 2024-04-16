@@ -1,6 +1,6 @@
 # [Image.ToText.io](https://image.totext.io/)
 
-This project is based on (2txt](https://github.com/ai-ng/2txt) by [ai-ng](ttps://github.com/ai-ng/2txt).
+This project is based on [2txt](https://github.com/ai-ng/2txt) by [ai-ng](ttps://github.com/ai-ng/2txt).
 Original Project can be found at [https://github.com/ai-ng/2txt](https://github.com/ai-ng/2txt).
 
 [Image to text](https://image.totext.io/), with AI. Built with the [Vercel AI SDK](https://sdk.vercel.ai), [Claude](https://claude.ai/), and [Next.js](https://nextjs.org).
